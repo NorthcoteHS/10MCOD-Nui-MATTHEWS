@@ -1,0 +1,4 @@
+zoo = input("Rock, paper, scissors")
+import random
+foo = ['Rock', 'paper', 'scissors']
+print(random.choice(foo))
